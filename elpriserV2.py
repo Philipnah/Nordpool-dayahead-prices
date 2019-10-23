@@ -54,7 +54,7 @@ plt.yticks(np.arange(min(data.price), max(data.price)+1, 2.0))
 
 plt.title("Electricity price per hour")
 plt.xlabel("Time (in hours)")
-plt.ylabel("Price (in dkk)")
+plt.ylabel("Price (in danish oere per kWh)")
 
 print("Program done!")
 plt.show()
