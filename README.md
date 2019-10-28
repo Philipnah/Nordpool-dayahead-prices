@@ -3,5 +3,9 @@ This Python script opens a browser window and gets information from Nordpool's "
 
 # Requirements
 Navigate to the folder that you cloned the repository to\
-Next, run the command "pip install -r requirements.txt" to get pip to install all the required libraries.\
+Next, run the following command
+```bash
+install -r requirements.txt
+```
+to get pip to install all the required libraries.\
 and then you're good to go.
